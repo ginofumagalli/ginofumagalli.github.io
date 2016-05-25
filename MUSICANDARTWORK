@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.headingshadow {
+    color: white;
+    text-shadow: 0px 5px 10px #000;
+    font-size: 100px;
+}
+</style>
+</head>
+<body style="background-color:red;">
+
+<a href="KILLERWHALERIDER">
+home page
+</a>
+
+
+<h1 class="headingshadow">
+<center>
+KILLER WHALE RIDER
+</center>
+
+
+<p>
+<center><font size="14">SEA TURTLE</font>
+<audio controls>
+  <source src="Downloads/gnj1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</center>
+<center><img src="Downloads/SEA TURTLE" alt="SEA TURTLE" style="auto">
+</center>
+</p>
+
+<p>
+<center><font size="14">DRIPPER</font>
+<audio controls>
+  <source src="Downloads/gnj1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</center>
+<center><img src="Downloads/DRIPPER" alt="DRIPPER" style="auto">
+</center>
+</p>
+
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.headingshadow {
+    color: white;
+    text-shadow: 0px 5px 10px #000;
+    font-size: 100px;
+}
+</style>
+</head>
+<body style="background-color:red">
+<p>
+<a href="KILLERWHALERIDER">
+home page
+</a>
+<a href="MUSICANDARTWORK">
+Music and Artwork
+</p>
+
+<h1 class="headingshadow">
+<center>
+KILLER WHALE RIDER
+</center>
+
+
+<p><center><font size="14">
+SHOW DATES ARE IN PROGRESS
+</font></center></p>
+
+</body>
+</html>

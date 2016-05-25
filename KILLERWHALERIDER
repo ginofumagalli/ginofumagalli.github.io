@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.headingshadow {
+    color: white;
+    text-shadow: 0px 5px 10px #000;
+    font-size: 100px;
+} 
+
+.musicandartwork {
+    float: left;
+    width: 800px;
+    border: 10px solid black;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    color: black;
+    }
+.musicandartwork:hover {
+    background-color: white;
+}
+
+
+
+.shows {
+    float: right;
+    width: 400px;
+    border: 10px solid black;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    color: black;
+    }
+.shows:hover {
+    background-color: white;
+}
+
+
+.bottomcontact{    
+    float: bottom;
+    width:1400px;
+    border: 10px solid black;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    color: black;
+    margin-top: 400px;
+   
+
+}
+	
+
+</style>
+</head>
+<body style="background-color:red;">
+
+
+<center>
+<h1 class="headingshadow">
+KILLER WHALE RIDER
+</h1>
+</center>
+
+ 
+
+
+<a href="MUSICANDARTWORK">
+<div class="musicandartwork">
+ <p><font size="10">MUSIC and ARTWORK</font></p>
+</div>
+</a>
+
+
+
+<a href="SHOWS">
+<div class="shows">
+  <p><font size="10">SHOW DATES</font></p>
+</div>
+</a>
+
+
+
+<center><div class="bottomcontact">
+ <p><font size="5">contact at ginofumagalli@gmail.com</font></p>
+</div></center>
+
+
+</body>
+
+</html>
